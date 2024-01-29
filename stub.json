@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a web server in Go using Gin framework that interacts with a database for user management. Include functionalities for user registration, login, and retrieval of user information.","md5":"2574ff335dba28b22da4f4bc0cde4b3a"}]}
